@@ -1,0 +1,45 @@
+.navbar{
+    background-color: lightblue;
+}
+
+.logo{
+    text-align: center;
+    border: 1px solid;
+    margin: 20px 0px 20px 50px;
+}
+
+.navbar-right{
+    margin-top: 60px;
+    margin-right: 10px;
+}
+
+.heading{
+    margin: 0px 10px 0px 10px;
+    float: right;
+    border: 1px solid;
+}
+
+.container{
+    border: 1px solid;
+}
+
+.ops{
+    margin-top: 50px;
+}
+
+.filter{
+    width: 100%;
+}
+
+.ind-op{
+    margin-top: 20px;
+    height: 150px;
+    width: 100%;
+}
+
+.map{
+    height: 500px;
+    border: 1px solid red;
+    margin-top: 50px;
+    text-align: center;
+}
